@@ -17,6 +17,8 @@ Tópicos estudados:
 
 <br>
 
+Comando Git aprendido: `git branch -M main`
+
 Para ver o resultado final hospedado, basta [clicar aqui](https://leonarita.github.io/DevFinances/)
 
 
