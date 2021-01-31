@@ -7,12 +7,13 @@ Projeto da Maratona Discovery da Rocketseat de gestão de finanças utilizando `
 Tópicos estudados:
 1. Formulários
 2. Tabelas
-3. Estilização
-4. Displays, Positions
-5. Responsividade
-6. Manipulação do DOM
-7. LocalStorage
-8. Modal
+3. Mídias (imagens, ícones)
+4. Estilização
+5. Displays, Positions
+6. Responsividade
+7. Manipulação do DOM
+8. LocalStorage
+9. Modal
 
 <br>
 
